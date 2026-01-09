@@ -61,6 +61,9 @@ nav .menu a{
     justify-content: center;
     align-items: center; 
 }
+.color-green{
+    color: #30B868;
+}
 #banner .banner-con{
     max-width: 1360px;
     display: flex;
@@ -79,6 +82,7 @@ nav .menu a{
 #banner .banner-con h1{
     color: #ffffff;
     margin-bottom: 16px;
+    font-size: 50px;
 }
 .banner-con .btn-one{
     padding: 8px 12px;
