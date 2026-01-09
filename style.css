@@ -54,6 +54,7 @@ nav .menu a{
     align-items: center;
     justify-content: center;
     text-align: center;
+
 }
 #banner .banner-con p{
     font-size: 18px;
@@ -123,6 +124,9 @@ nav .menu a{
     margin-bottom: 25px;
     justify-items: center;
     text-align: center;
+}
+.con-con{
+    display: flex;
 }
 .container-con .con-box{
     display: flex;
